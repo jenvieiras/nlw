@@ -7,7 +7,8 @@ const connection = knex({
         user : 'root',
         password : '',
         database : 'mydb'
-    }
+    },
+    useNullAsDefault: true
 });
 
 export default connection;

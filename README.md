@@ -1,15 +1,14 @@
 # Next Leve Week - RocketSeat Bootcamp
 
-Ecoleta - Aplicação Web e Mobile de coleta de resíduos reciclaváveis 
-utilizando API do IBGE para localizar e salvar locais de coleta. 
+##Ecoleta - Aplicação Web e Mobile de coleta de resíduos reciclaváveis utilizando API do IBGE para localizar e salvar locais de coleta. 
 
-#Server:
+###Server:
 - Node.js
 - TypeScript 
 
-#WebApp:
+###WebApp:
 - React.js
 
-#MobileApp:
+###MobileApp:
 - React Native
 

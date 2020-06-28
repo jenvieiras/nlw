@@ -1,3 +1,15 @@
-# Next Leve Week
+# Next Leve Week - RocketSeat Bootcamp
 
-Aplicação Web e Mobile com Node.js, React.js, React Native e conceitos em TypeScript.
+Ecoleta - Aplicação Web e Mobile de coleta de resíduos reciclaváveis 
+utilizando API do IBGE para localizar e salvar locais de coleta. 
+
+#Server:
+- Node.js
+- TypeScript 
+
+#WebApp:
+- React.js
+
+#MobileApp:
+- React Native
+
